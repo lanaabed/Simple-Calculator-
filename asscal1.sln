@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asscal1", "asscal1\asscal1.csproj", "{708098AC-F3C4-4142-9253-FC651A7CDE07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{708098AC-F3C4-4142-9253-FC651A7CDE07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708098AC-F3C4-4142-9253-FC651A7CDE07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708098AC-F3C4-4142-9253-FC651A7CDE07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708098AC-F3C4-4142-9253-FC651A7CDE07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78966B04-0146-4436-AFC5-D48AB0C53E66}
+	EndGlobalSection
+EndGlobal
